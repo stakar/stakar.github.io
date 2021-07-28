@@ -84,12 +84,12 @@ author:
   avatar           : "picSK.jpg"
   bio              : "PHD student"
   location         : "Poznań"
-  employer         : Poznan Laboratory of Affective Neuroscience
+  employer         : Laboratory of Affective Neuroscience
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "skarkosz@swps.edu.pl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://www.swps.pl/nauka-i-badania/jednostki-badawcze/laboratorium-neuronauki-emocji"
   bitbucket        :
   codepen          :
   dribbble         :
