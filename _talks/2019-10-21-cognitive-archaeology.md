@@ -12,3 +12,7 @@ Cognitive Archaeology
 -----
 
 Talk prepared for archaeology scientific club.
+
+<figure class="video_container">
+<iframe src="files/Archeo_presentation.pdf_/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
