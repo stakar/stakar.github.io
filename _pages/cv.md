@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV in PDF](files/CV.pdf)
+[CV in PDF](https://stakar.github.io/files/CV.pdf)
 
 Education
 ======
